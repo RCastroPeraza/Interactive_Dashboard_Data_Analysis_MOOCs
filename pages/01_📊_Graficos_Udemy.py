@@ -8,7 +8,7 @@ if st.checkbox('¿Qué es Udemy?'):
     st.write('Tienda virtual de aprendizaje y enseñanza con más de 213000 cursos y 62 millones de estudiantes')
 
 #carga de datos
-udemy_courses=pd.read_csv('C:\\Users\\el chico de rosas\\Documents\\Henry\\PI02\\Datasets\\df_uc.csv')
+udemy_courses=pd.read_csv('Datasets/df_uc.csv')
 df_uc=pd.DataFrame(udemy_courses) 
 
 #Presentación datos

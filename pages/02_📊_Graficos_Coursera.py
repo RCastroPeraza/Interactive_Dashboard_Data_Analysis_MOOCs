@@ -8,10 +8,11 @@ if st.checkbox('¿Qué es Coursera?'):
     st.write('Es una plataforma educativa virtual que ofrece cursos diversos en temáticas disponibles en distintos idiomas y desarrollada por la Universidad de Stanford.')
 
 #carga de datos
-coursera_courses=pd.read_csv('C:\\Users\\el chico de rosas\\Documents\\Henry\\PI02\\Datasets\\df_cc.csv')
+coursera_courses=pd.read_csv('Datasets/df_cc.csv')
 df_cc=pd.DataFrame(coursera_courses) 
-coursera_reviews=pd.read_csv('C:\\Users\\el chico de rosas\\Documents\\Henry\\PI02\\Datasets\\df_cr.csv')
-df_cr=pd.DataFrame(coursera_reviews) 
+
+coursera_reviews=pd.read_csv('Datasets/df_cr.csv')
+df_cr=pd.DataFrame(coursera_reviews)
 
 #Presentación datos
 if st.checkbox('Datos en tabla'):

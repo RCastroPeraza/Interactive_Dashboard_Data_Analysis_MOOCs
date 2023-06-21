@@ -9,7 +9,7 @@ if st.checkbox('¿Qué es Edx?'):
     st.write('Plataforma de cursos abiertos masivos en línea trabajando con universidades y organizaciones líderes mundiales para ofrecer cursos de alta calidad teniendo un catálogo de más de 3500 cursos disponibles')
 
 #carga de datos
-edx_courses=pd.read_csv('C:\\Users\\el chico de rosas\\Documents\\Henry\\PI02\\Datasets\\df_ec.csv')
+edx_courses=pd.read_csv('Datasets/df_ec.csv')
 df_ec=pd.DataFrame(edx_courses) 
 
 #nube de palabras
