@@ -6,16 +6,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 #Carga y Tratamiento de los datos
-udemy_courses=pd.read_csv('Datasets\\df_uc.csv')
+udemy_courses=pd.read_csv('Datasets/df_uc.csv')
 df_uc=pd.DataFrame(udemy_courses) 
 
-edx_courses=pd.read_csv('Datasets\\df_ec.csv')
+edx_courses=pd.read_csv('Datasets/df_ec.csv')
 df_ec=pd.DataFrame(edx_courses) 
 
-coursera_courses=pd.read_csv('Datasets\\df_cc.csv')
+coursera_courses=pd.read_csv('Datasets/df_cc.csv')
 df_cc=pd.DataFrame(coursera_courses) 
 
-coursera_reviews=pd.read_csv('Datasets\\df_cr.csv')
+coursera_reviews=pd.read_csv('Datasets/df_cr.csv')
 df_cr=pd.DataFrame(coursera_reviews)
 
 # Combinar las columnas 'course_title' de df_uc y 'title' de df_ec en la columna 'Curso' de df_mezcla
