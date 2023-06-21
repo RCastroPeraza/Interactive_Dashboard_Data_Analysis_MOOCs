@@ -6,10 +6,10 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
 
-Nombre: Ricardo Castro
-Github: RCastroPeraza
-Cohorte: 11
-Correo de contacto: rcastroperaza@gmail.com
+* Nombre: Ricardo Castro
+* Github: RCastroPeraza
+* Cohorte: 11
+* Correo de contacto: rcastroperaza@gmail.com
 
 <p align='center'>
 <img src = 'https://thumbs.dreamstime.com/b/mooc-massive-open-online-course-learning-vector-219370657.jpg' height = 200>
@@ -21,7 +21,7 @@ Las plataforma educativas revolucionaron el mundo de la enseñanza, siendo contr
 
 **Palabras Clave:** Análisis de datos, MOOCs, aprendizaje virtual.
 
-### **Introducción **
+### **Introducción**
 
 Los MOOCs (cursos masivos abiertos y online, por sus siglas en inglés) nacieron en 1922, la Universidad de Nueva York empezó a generar cursos por radio que cumplían con las características de ser abiertos la público y masivos, prontamente universidades como Columbia, Harvard, Kansas State, Ohio, Purdie, Ruffs y muchas otras generaron su propio contenido de la misma manera.  (Bartolomé y Steffens, 2015)
 
@@ -59,10 +59,10 @@ En el actual proyecto, se evalúan las características descritas a continuació
 
 Los cursos cortos, introductorios, gratuitos y de temática TI generan ganancias mayores medibles a través del ingreso total generado. 
 
-##** Objetivo General**
+## **Objetivo General**
 Enmarcar las características identificables de cursos para la inversión en el catálogo tales como longitud, precio, tema posibilitando mayores ganancias o retornos a menor plazo empleando los datos de Udemy, Coursera y Edx y generar KPI capaces de contrastar estas carcterísticas como medida del desempeño de los cursos seleccionados.
 
-##** Objetivos Específicos**
+## **Objetivos Específicos**
 * Generar el KPI Tasa de Conversión que evalúe el desempeño de cursos pagados contra cursos gratuitos en la fidelidad del consumidor.
 * Obtener el KPI Tasa de Subscripción por temática donde se determina el tópico más popular y su pendiente de crecimiento en comparación a otros temas.
 * Mediante el KPI Tasa de Ingreso por Curso Promedio de acuerdo a nivel, tasar el nivel que genera mayor ganancias.
